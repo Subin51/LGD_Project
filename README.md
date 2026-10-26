@@ -1,4 +1,4 @@
-# BitWave 기반 DNN 가속기 — Python Golden Model
+# BitWave 기반 DNN 가속기 — 데이터 처리 Python 코드
 
 0인 bit-column을 건너뛰는 DNN 가속기를 Verilog로 구현한 팀 프로젝트 중,
 제가 맡은 **데이터 전처리와 RTL 검증용 golden 값 생성** 코드입니다.
